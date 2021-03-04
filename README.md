@@ -14,21 +14,22 @@
 8. **finger** (Misc) - user information lookup program
 9. **alias** (Misc) - define or display aliases
 10. **date** (Misc) - display the time and date
-11. **ps** (Process managment) - report process status
-14. **df** (FileSystem) - report free disk space or inodes
-15. **free** (Misc) - display amount of free and used memory in the system
-16. **pwd** (Filesystem) - print working directory
-17. **umask** (Mics) - get or set the file mode creation mask
-18. **ip a** (Misc) - list network adapters and ip address
-19. **ls** (Mics) - list directory content
-20. **dirname** (Misc) - strip last component from file name
-21. **file** (Misc) - determine file type
-22. **fuser** (Misc) - identify processes using files or sockets
-23. **dmesg** (Mics) - print or control the kernel ring buffer
-24. **lsblk** (Misc) - list block devices
-25. **top** (Misc) - display Linux processes
-26. **pgrep, pkill** (Misc) - look up or signal processes based on name and other attributes
-27. **uname** (Mics) - print system information
-28. **which** (Misc) - locate a command
-29. **whereis** (Misc) - locate the binary, source, and manual page files for a command
-30. **whatis** (Misc) - display one-line manual page descriptions31. 
+11. **uname** (Mics) - print system information
+12. **lsblk** (Misc) - list block devices
+14. **which** (Misc) - locate a command
+16. **whereis** (Misc) - locate the binary, source, and manual page files for a command
+17. **whatis** (Misc) - display one-line manual page descriptions31
+18. **free** (Misc) - display amount of free and used memory in the system
+19. **pwd** (Filesystem) - print working directory
+20. **df** (FileSystem) - report free disk space or inodes
+21. **umask** (Mics) - get or set the file mode creation mask
+22. **file** (Misc) - determine file type
+23. **ls** (Mics) - list directory content
+24. **dirname** (Misc) - strip last component from file name
+25. **ip a** (Misc) - list network adapters and ip address
+26. **fuser** (Misc) - identify processes using files or sockets
+30. **dmesg** (Mics) - print or control the kernel ring buffer
+31. **top** (Misc) - display Linux processes
+33. **ps** (Process managment) - report process status
+34. **pgrep, pkill** (Misc) - look up or signal processes based on name and other attributes
+35. **sar** (System administartor) - collect, report, or save system activity information
