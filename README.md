@@ -26,10 +26,41 @@
 22. **file** (Misc) - determine file type
 23. **ls** (Mics) - list directory content
 24. **dirname** (Misc) - strip last component from file name
-25. **ip a** (Misc) - list network adapters and ip address
-26. **fuser** (Misc) - identify processes using files or sockets
+25. **checksum** (Misc) - 
+26. **ip a** (Misc) - list network adapters and ip address
+27. **ping** (Misc) - 
+28. **traceroute** (System administartor) -   
+29. **fuser** (Misc) - identify processes using files or sockets
 30. **dmesg** (Mics) - print or control the kernel ring buffer
 31. **top** (Misc) - display Linux processes
+32. **htop** (Misc) - 
 33. **ps** (Process managment) - report process status
 34. **pgrep, pkill** (Misc) - look up or signal processes based on name and other attributes
 35. **sar** (System administartor) - collect, report, or save system activity information
+
+## Administration commands
+1. **apt** - 
+2. **yum** - 
+3. **passwd** - 
+4. **useradd** - 
+5. **groupadd** - 
+6. **usermod** -
+7. **groupmod** -
+8. **userdel** - 
+9. **groupmod** - 
+10. **putty-tools** - 
+11. **journalctl** - 
+12. **systemctl** -
+13. **gpg** - 
+16. **git** - 
+17. **gitstats** - 
+18. **strace** - 
+19. **mysqldbcompare** - 
+20. **mysqlbinlog** - 
+21. **smartctl**
+22. **dnsping** - 
+23. **whois** - 
+24. **nslookup** - 
+25. **letsencrypt** -
+26. **letsencrypt-auto** - 
+27. 
